@@ -1,1 +1,1 @@
-# springboot_blog
+# springboot_blog(블로그)
